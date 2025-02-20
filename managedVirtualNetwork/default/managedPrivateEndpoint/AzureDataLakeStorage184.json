@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStorage184",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/4ba29616-05cb-4c38-a220-41a8697cfb9e/resourceGroups/ATG-idmt/providers/Microsoft.Storage/storageAccounts/800atgdevdlssyn",
+		"groupId": "dfs",
+		"fqdns": [
+			"800atgdevdlssyn.dfs.core.windows.net"
+		]
+	}
+}

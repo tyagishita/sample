@@ -1,0 +1,9 @@
+{
+	"name": "work-gyoda-prod",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3174f26b-949f-4e65-aff1-6ee278996b7b",
+		"tenantId": "644e05ec-c931-445c-8b08-599939d29a31"
+	}
+}
